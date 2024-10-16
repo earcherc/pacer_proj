@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "SpaceX Data Viewer",
-  description: "Get insights into the latest SpaceX travel",
+  title: "SpaceX Launch Viewer",
+  description: "Explore SpaceX's launch history",
 };
 
 export default function RootLayout({
